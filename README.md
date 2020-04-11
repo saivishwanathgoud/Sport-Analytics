@@ -1,11 +1,11 @@
-# Sport-Analytics
+# Sport-Analytics (Work in Progress) 
 Application of Data Science in Sports
 
 Sports Analytics is all about analyzing and extracting useful insights from sports data.
 
 It can be classified into Descriptive sports analytics and predictive sprots analytics 
 
-Descriptive Sports Analytics: 
+#Descriptive Sports Analytics: 
 
 summarizing the sports data in the form of numbers and come up with statistics 
 
@@ -14,7 +14,7 @@ when batting first/second etc.
 This can help teams to come up with game plans and strategies 
 
 
-Predictive Sports Analytics: 
+#Predictive Sports Analytics: 
 
 Making predictions using existing data. 
 
